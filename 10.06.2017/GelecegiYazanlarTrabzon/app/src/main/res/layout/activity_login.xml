@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:gravity="top|center"
+    android:orientation="vertical"
+    android:padding="5dp"
+    tools:context="trabzonegitim.vehhbiakdogan.com.gelecegiyazanlartrabzon.LoginActivity">
+
+    <ImageView
+        android:id="@+id/resim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/android_login_img" />
+
+    <EditText
+        android:id="@+id/edKullaniciAdi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Adınızı Giriniz" />
+
+    <EditText
+        android:id="@+id/edSifre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Şifrenizi Giriniz"
+        android:inputType="numberPassword" />
+
+    <Button
+        android:id="@+id/girisBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Giriş Yap" />
+
+</LinearLayout>

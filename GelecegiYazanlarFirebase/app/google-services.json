@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "201983374301",
+    "firebase_url": "https://gelecegiyazankadinlar-da7cf.firebaseio.com",
+    "project_id": "gelecegiyazankadinlar-da7cf",
+    "storage_bucket": "gelecegiyazankadinlar-da7cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201983374301:android:8cbdad01ec2f0125",
+        "android_client_info": {
+          "package_name": "vehhbiakdogan.com.gelecegiyazanlarfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201983374301-c22l4immsco9qpd3otgpeiaut0ee9njs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vehhbiakdogan.com.gelecegiyazanlarfirebase",
+            "certificate_hash": "9436e9e571824d75ea739b35cb0bd0d38b6725a9"
+          }
+        },
+        {
+          "client_id": "201983374301-dfdo5opgfbe5598kb2t5ul7d8lstuk72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvxF3e-0yZLRIeAyjELAuDuscJ5XH0nSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201983374301-dfdo5opgfbe5598kb2t5ul7d8lstuk72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
